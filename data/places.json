@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "title": {
+            "ru": "Главный корпус ВШЭ (Покровка)",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.753636,
+        "lon": 37.648297,
+        "circle_video": "hse.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+    {
+        "id": 2,
+        "title": {
+            "ru": "Гастромаркет 'Особняк'",
+            "en": "Gastro Market 'Osobnyak'"
+        },
+        "description": {
+            "ru": "Уютный гастромаркет в старинном особняке, где можно попробовать кухни со всего мира.",
+            "en": "A cozy gastro market in a historical mansion offering cuisines from all over the world."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Найди Большой Трёхсвятительский переулок, 2/1с5.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Head to 2/1s5 Bolshoy Trekhsvyatitelskiy Lane."
+        },
+        "lat": 55.755044,
+        "lon": 37.644684,
+        "circle_video": "osobn.mp4",
+        "circle_text": {
+            "ru": "Здесь пахнет свежей выпечкой и кофе, а внутри — шум разговоров и уютный свет.",
+            "en": "It smells like fresh pastries and coffee here — filled with chatter and warm light."
+        }
+    },
+    {
+        "id": 3,
+        "title": {
+            "ru": "Чистые Пруды",
+            "en": "Chistye Prudy"
+        },
+        "description": {
+            "ru": "Одно из самых живописных мест Москвы, любимое место прогулок и встреч.",
+            "en": "One of Moscow’s most picturesque spots — a favorite place for walks and meetups."
+        },
+        "route": {
+            "ru": "Метро 'Чистые пруды'. Выйди на бульвар и спустись к пруду.",
+            "en": "Metro ‘Chistye Prudy’. Exit to the boulevard and head down to the pond."
+        },
+        "lat": 55.764473,
+        "lon": 37.639277,
+        "circle_video": "prud.mp4",
+        "circle_text": {
+            "ru": "Посмотри, как вода отражает небо — кажется, будто город немного выдохнул.",
+            "en": "Look at how the water reflects the sky — it feels like the city took a quiet breath."
+        }
+    },
+  {
+        "id": 4,
+        "title": {
+            "ru": "Никольская, Центральный Детский Магазин",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.760140,
+        "lon": 37.624965,
+        "circle_video": "cdm.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+  {
+        "id": 5,
+        "title": {
+            "ru": "Соловецкий Камень",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.759113,
+        "lon": 37.627596,
+        "circle_video": "kamen.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+  {
+        "id": 6,
+        "title": {
+            "ru": "Красная Площадь, Парк Зарядье",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.751188,
+        "lon": 37.627940,
+        "circle_video": "park.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+  {
+        "id": 7,
+        "title": {
+            "ru": "Дом Пашкова, кофейня Буфет",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.750063,
+        "lon": 37.607129,
+        "circle_video": "dom.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+  {
+        "id": 8,
+        "title": {
+            "ru": "Кафе-трапезная Antiпа",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.747765,
+        "lon": 37.605615,
+        "circle_video": "antipa.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+  {
+        "id": 9,
+        "title": {
+            "ru": "Стена Цоя",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.749125,
+        "lon": 37.590872,
+        "circle_video": "tsoi.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    },
+  {
+        "id": 11,
+        "title": {
+            "ru": "Смотровая площадка на Воробьевых горах",
+            "en": "HSE Main Building (Pokrovka)"
+        },
+        "description": {
+            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
+            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+        },
+        "route": {
+            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+        },
+        "lat": 55.710689,
+        "lon": 37.572050,
+        "circle_video": "smotr.mp4",
+        "circle_text": {
+            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
+            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+        }
+    }
+]

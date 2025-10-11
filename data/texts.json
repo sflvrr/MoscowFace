@@ -1,0 +1,14 @@
+{
+  "ru": {
+    "start": "Привет! 👋\nГотов отправиться в путешествие?",
+    "go": "В путь 🚶‍♂️",
+    "at_place": "Я на месте 📸",
+    "thanks": "Спасибо, что прошёл этот маршрут! 🌿"
+  },
+  "en": {
+    "start": "Hi there! 👋\nReady to start your journey?",
+    "go": "Let's go 🚶‍♂️",
+    "at_place": "I'm here 📸",
+    "thanks": "Thanks for completing this route! 🌿"
+  }
+}
