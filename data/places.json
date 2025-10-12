@@ -19,7 +19,7 @@
           "ru": "hse_ru.mp4",
           "en": "hse_en.mp4"
         },
-        "music": "",
+        "music": [],
         "circle_text": {
             "ru": "Добро пожаловать в атмосферу учебы, осени и вкусного кофе! Ты на Покровке, месте, где кипит жизнь, ходят студенты и в воздухе витает атмосфера знаний.",
             "en": "Welcome to the vibe of studying, autumn, and good coffee! You’re on Pokrovka — a place buzzing with students and the spirit of knowledge."
@@ -41,8 +41,11 @@
         },
         "lat": 55.755044,
         "lon": 37.644684,
-        "circle_video": "osobn.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "osobn_ru.mp4",
+          "en": "osobn_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Здесь пахнет свежей выпечкой и кофе, а внутри — шум разговоров и уютный свет.",
             "en": "It smells like fresh pastries and coffee here — filled with chatter and warm light."
@@ -64,8 +67,11 @@
         },
         "lat": 55.764473,
         "lon": 37.639277,
-        "circle_video": "prud.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "prud_ru.mp4",
+          "en": "prud_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Посмотри, как вода отражает небо — кажется, будто город немного выдохнул.",
             "en": "Look at how the water reflects the sky — it feels like the city took a quiet breath."
@@ -87,8 +93,11 @@
         },
         "lat": 55.760140,
         "lon": 37.624965,
-        "circle_video": "cdm.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "cdm_ru.mp4",
+          "en": "cdm_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Поднимись на крышу — оттуда открывается вид на Никольскую и Кремль, а город под ногами будто немного замедляется.\n",
             "en": "Go up to the rooftop — you’ll see Nikolskaya and the Kremlin, and it feels like the city slows down for a moment."
@@ -110,8 +119,11 @@
         },
         "lat": 55.759113,
         "lon": 37.627596,
-        "circle_video": "kamen.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "kamen_ru.mp4",
+          "en": "kamen_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Здесь хочется говорить тихо. Просто постой рядом — и почувствуй, как история звучит в тишине.",
             "en": "This is a place for silence — stand nearby and feel how history speaks through stillness."
@@ -133,8 +145,11 @@
         },
         "lat": 55.751188,
         "lon": 37.627940,
-        "circle_video": "park.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "park_ru.mp4",
+          "en": "park_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Пройди немного дальше — откроется вид на воду и купола. Здесь чувствуешь дыхание города: мощь, красоту и ту особую тишину, которая бывает только в самом центре.",
             "en": "Walk a little further — you’ll see the river and the domes. Here you can feel the pulse of the city: its strength, beauty, and that rare quiet only found at its core."
@@ -156,8 +171,11 @@
         },
         "lat": 55.750063,
         "lon": 37.607129,
-        "circle_video": "dom.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "dom_ru.mp4",
+          "en": "dom_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Здесь, у кофейни «Буфет», можно взять вкусный кофе и посидеть с видом на Кремль. А за стенами — книги, истории и тишина, которая говорит громче слов.",
             "en": "Stop by the “Bufet” café for a great coffee and enjoy the view of the Kremlin. Behind these walls lie books, stories, and a silence that speaks louder than words."
@@ -179,8 +197,11 @@
         },
         "lat": 55.747765,
         "lon": 37.605615,
-        "circle_video": "antipa.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "antipa_ru.mp4",
+          "en": "antipa_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Возьми чашку кофе, сядь у окна и почувствуй — иногда уют важнее скорости.",
             "en": "Grab a cup of coffee, sit by the window, and realize — sometimes comfort matters more than speed."
@@ -202,15 +223,18 @@
         },
         "lat": 55.749125,
         "lon": 37.590872,
-        "circle_video": "tsoi.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "tsoi_ru.mp4",
+          "en": "tsoi_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Прислушайся — кажется, кто-то тихо поёт, и воздух снова наполняется смыслом...",
             "en": "Listen closely — someone might still be singing, and the air fills with meaning again..."
         }
     },
   {
-        "id": 11,
+        "id": 10,
         "title": {
             "ru": "Смотровая площадка на Воробьевых горах",
             "en": "HSE Main Building (Pokrovka)"
@@ -225,8 +249,11 @@
         },
         "lat": 55.710689,
         "lon": 37.572050,
-        "circle_video": "smotr.mp4",
-        "music": "",
+        "circle_video": {
+          "ru": "smotr_ru.mp4",
+          "en": "smotr_en.mp4"
+        },
+        "music": [],
         "circle_text": {
             "ru": "Стоишь на смотровой, чувствуешь прохладный воздух и смотришь на Москву, раскинувшуюся под ногами. Да, история у нас непростая — но в этом ветре, в этих огнях чувствуется вера в светлое, чистое будущее.",
             "en": "Standing on the viewpoint, feeling the cool air and watching Moscow spread out before you — yes, our history is complicated, but in this wind, in these lights, you can sense faith in a bright, clear future."
