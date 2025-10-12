@@ -7,7 +7,7 @@
         },
         "description": {
             "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "en": "The main building of the Higher School of Economics is one of the university’s key spaces, filled with student life and energy."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -15,10 +15,14 @@
         },
         "lat": 55.753636,
         "lon": 37.648297,
-        "circle_video": "hse.mp4",
+        "circle_video": {
+          "ru": "hse_ru.mp4",
+          "en": "hse_en.mp4"
+        },
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Добро пожаловать в атмосферу учебы, осени и вкусного кофе! Ты на Покровке, месте, где кипит жизнь, ходят студенты и в воздухе витает атмосфера знаний.",
+            "en": "Welcome to the vibe of studying, autumn, and good coffee! You’re on Pokrovka — a place buzzing with students and the spirit of knowledge."
         }
     },
     {
@@ -38,6 +42,7 @@
         "lat": 55.755044,
         "lon": 37.644684,
         "circle_video": "osobn.mp4",
+        "music": "",
         "circle_text": {
             "ru": "Здесь пахнет свежей выпечкой и кофе, а внутри — шум разговоров и уютный свет.",
             "en": "It smells like fresh pastries and coffee here — filled with chatter and warm light."
@@ -60,6 +65,7 @@
         "lat": 55.764473,
         "lon": 37.639277,
         "circle_video": "prud.mp4",
+        "music": "",
         "circle_text": {
             "ru": "Посмотри, как вода отражает небо — кажется, будто город немного выдохнул.",
             "en": "Look at how the water reflects the sky — it feels like the city took a quiet breath."
@@ -72,8 +78,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "Центральный Детский Магазин — не просто торговый центр, а символ детства и света посреди центра Москвы.",
+            "en": "The Central Children’s Store is more than a mall — it’s a symbol of childhood and light in the heart of Moscow."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -82,9 +88,10 @@
         "lat": 55.760140,
         "lon": 37.624965,
         "circle_video": "cdm.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Поднимись на крышу — оттуда открывается вид на Никольскую и Кремль, а город под ногами будто немного замедляется.\n",
+            "en": "Go up to the rooftop — you’ll see Nikolskaya and the Kremlin, and it feels like the city slows down for a moment."
         }
     },
   {
@@ -94,8 +101,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "Соловецкий камень — памятник памяти, напоминание о тех, кто пострадал от репрессий.",
+            "en": "The Solovetsky Stone is a monument of remembrance, honoring the victims of repression."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -104,9 +111,10 @@
         "lat": 55.759113,
         "lon": 37.627596,
         "circle_video": "kamen.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Здесь хочется говорить тихо. Просто постой рядом — и почувствуй, как история звучит в тишине.",
+            "en": "This is a place for silence — stand nearby and feel how history speaks through stillness."
         }
     },
   {
@@ -116,8 +124,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "Красная площадь — сердце Москвы, где встречаются прошлое и настоящее, а рядом течёт Москва-река и раскинулся парк Зарядье.",
+            "en": "Red Square is the heart of Moscow, where past and present meet, with the Moscow River flowing nearby and Zaryadye Park stretching alongside."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -126,9 +134,10 @@
         "lat": 55.751188,
         "lon": 37.627940,
         "circle_video": "park.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Пройди немного дальше — откроется вид на воду и купола. Здесь чувствуешь дыхание города: мощь, красоту и ту особую тишину, которая бывает только в самом центре.",
+            "en": "Walk a little further — you’ll see the river and the domes. Here you can feel the pulse of the city: its strength, beauty, and that rare quiet only found at its core."
         }
     },
   {
@@ -138,8 +147,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "Дом Пашкова — одно из самых изящных зданий Москвы, ставшее частью Российской государственной библиотеки.",
+            "en": "The Pashkov House is one of Moscow’s most elegant buildings and now part of the Russian State Library."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -148,9 +157,10 @@
         "lat": 55.750063,
         "lon": 37.607129,
         "circle_video": "dom.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Здесь, у кофейни «Буфет», можно взять вкусный кофе и посидеть с видом на Кремль. А за стенами — книги, истории и тишина, которая говорит громче слов.",
+            "en": "Stop by the “Bufet” café for a great coffee and enjoy the view of the Kremlin. Behind these walls lie books, stories, and a silence that speaks louder than words."
         }
     },
   {
@@ -160,8 +170,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "“Антипа” — маленькое кафе, спрятанное от шума, где время течёт чуть медленнее.",
+            "en": "“Antipa” is a small café hidden from the city noise, where time moves a little slower."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -170,9 +180,10 @@
         "lat": 55.747765,
         "lon": 37.605615,
         "circle_video": "antipa.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Возьми чашку кофе, сядь у окна и почувствуй — иногда уют важнее скорости.",
+            "en": "Grab a cup of coffee, sit by the window, and realize — sometimes comfort matters more than speed."
         }
     },
   {
@@ -182,8 +193,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "Стена Цоя — место памяти, свободы и музыки, где слова «Перемен!» звучат до сих пор.",
+            "en": "The Tsoi Wall is a place of memory, freedom, and music, where the word “Changes!” still echoes."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -192,9 +203,10 @@
         "lat": 55.749125,
         "lon": 37.590872,
         "circle_video": "tsoi.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Прислушайся — кажется, кто-то тихо поёт, и воздух снова наполняется смыслом...",
+            "en": "Listen closely — someone might still be singing, and the air fills with meaning again..."
         }
     },
   {
@@ -204,8 +216,8 @@
             "en": "HSE Main Building (Pokrovka)"
         },
         "description": {
-            "ru": "Главный корпус Высшей школы экономики — одно из ключевых зданий университета, где кипит студенческая жизнь.",
-            "en": "The main building of the Higher School of Economics — one of the key university hubs full of student life."
+            "ru": "Воробьёвы горы — одно из самых известных мест в Москве: отсюда открывается панорама города, а рядом проходит канатная дорога, соединяющая берег и стадион «Лужники».",
+            "en": "Vorobyovy Gory is one of Moscow’s most famous spots: from here, the city unfolds below, and the cable car glides nearby between the hillside and Luzhniki Stadium."
         },
         "route": {
             "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
@@ -214,9 +226,10 @@
         "lat": 55.710689,
         "lon": 37.572050,
         "circle_video": "smotr.mp4",
+        "music": "",
         "circle_text": {
-            "ru": "Ты на Покровке — здесь всегда шумно и живо, студенты спешат на пары или обсуждают проекты прямо на ступеньках.",
-            "en": "You’re on Pokrovka — it’s always lively here, students hurrying to classes or chatting on the steps."
+            "ru": "Стоишь на смотровой, чувствуешь прохладный воздух и смотришь на Москву, раскинувшуюся под ногами. Да, история у нас непростая — но в этом ветре, в этих огнях чувствуется вера в светлое, чистое будущее.",
+            "en": "Standing on the viewpoint, feeling the cool air and watching Moscow spread out before you — yes, our history is complicated, but in this wind, in these lights, you can sense faith in a bright, clear future."
         }
     }
 ]

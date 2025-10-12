@@ -1,14 +1,14 @@
 {
   "ru": {
-    "start": "Привет! 👋\nГотов отправиться в путешествие?",
+    "start": "Привет! 👋\n\nДобро пожаловать в мир открытий и новых впечатлений!\nС этим ботом ты сможешь пройти маршрут и заново открыть для себя Москву - живой, красивейший, полный уюта и красок город!\n\nС погружением в атмосферу тебе помогут текстовые справки, музыка, которую ты можешь слушать по дороге, пока добираешься до места, и кружочки, которые мы для тебя записали!\n\nГотов отправиться в путешествие?",
     "go": "В путь 🚶‍♂️",
     "at_place": "Я на месте 📸",
-    "thanks": "Спасибо, что прошёл этот маршрут! 🌿"
+    "thanks": "Спасибо, что прошёл этот маршрут! 🌿\nДобавляйся в групповой чат, чтобы обсудить маршрут, поделиться впечатлениями и найти новых друзей!\nhttps://t.me/+QH5V1wY2YWMzZjdi"
   },
   "en": {
-    "start": "Hi there! 👋\nReady to start your journey?",
+    "start": "Hello! 👋\n\nWelcome to a world of discoveries and new experiences!\nWith this bot, you can follow the route and rediscover Moscow — a lively, beautiful city full of cosiness and colour!\n\nText references, music you can listen to on the way to your destination, and circles we have recorded for you will help you immerse yourself in the atmosphere!\n\nReady to go on a journey?",
     "go": "Let's go 🚶‍♂️",
     "at_place": "I'm here 📸",
-    "thanks": "Thanks for completing this route! 🌿"
+    "thanks": "Thanks for completing this route! 🌿\nAdd to the group chat to discuss the route with others!\nhttps://t.me/+QH5V1wY2YWMzZjdi"
   }
 }

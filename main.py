@@ -11,18 +11,18 @@ load_dotenv()
 bot = Bot(token=os.getenv("BOT_TOKEN"))
 dp = Dispatcher()
 
-# Храним язык и прогресс пользователя
+
 user_lang = {}
 user_progress = {}
 
-# Загружаем все тексты и места
+
 with open("data/texts.json", "r", encoding="utf-8") as f:
     TEXTS = json.load(f)
 
 with open("data/places.json", "r", encoding="utf-8") as f:
     PLACES = json.load(f)
 
-# --- /start ---
+
 @dp.message(CommandStart())
 async def start(message: types.Message):
     kb = ReplyKeyboardMarkup(
@@ -33,7 +33,7 @@ async def start(message: types.Message):
     )
     await message.answer("Выбери язык / Choose your language:", reply_markup=kb)
 
-# --- выбор языка ---
+
 @dp.message(F.text.in_(["🇷🇺 Русский", "🇬🇧 English"]))
 async def set_language(message: types.Message):
     lang = "ru" if "Рус" in message.text else "en"
@@ -46,7 +46,7 @@ async def set_language(message: types.Message):
     )
     await message.answer(TEXTS[lang]["start"], reply_markup=kb)
 
-# --- показать место ---
+
 @dp.message(lambda msg: any(msg.text == TEXTS[lang]["go"] for lang in TEXTS))
 async def send_place_info(message: types.Message):
     lang = user_lang.get(message.from_user.id, "ru")
@@ -71,7 +71,7 @@ async def send_place_info(message: types.Message):
     await message.answer(text, parse_mode=ParseMode.HTML, reply_markup=kb)
     await message.answer_location(latitude=place["lat"], longitude=place["lon"])
 
-# --- пользователь на месте ---
+
 @dp.message(lambda msg: any(msg.text == TEXTS[lang]["at_place"] for lang in TEXTS))
 async def at_place(message: types.Message):
     lang = user_lang.get(message.from_user.id, "ru")
@@ -82,7 +82,7 @@ async def at_place(message: types.Message):
         return
 
     place = PLACES[index]
-    video_path = f"data/circles/{place['circle_video']}"
+    video_path = f"data/circles/{place['circle_video'][lang]}"
 
     if os.path.exists(video_path):
         video = FSInputFile(video_path)
@@ -90,7 +90,6 @@ async def at_place(message: types.Message):
 
     await message.answer(place["circle_text"][lang])
 
-    # Следующее место
     user_progress[message.from_user.id] = index + 1
 
     if index + 1 < len(PLACES):
@@ -102,7 +101,7 @@ async def at_place(message: types.Message):
     else:
         await message.answer(TEXTS[lang]["thanks"], reply_markup=types.ReplyKeyboardRemove())
 
-# --- запуск ---
+
 if __name__ == "__main__":
     import asyncio
     asyncio.run(dp.start_polling(bot))
