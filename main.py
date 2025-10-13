@@ -67,9 +67,19 @@ async def send_place_info(message: types.Message):
         keyboard=[[KeyboardButton(text=TEXTS[lang]["at_place"])]],
         resize_keyboard=True
     )
+    audio_path = f"data/music/{place['music']['path']}"
 
     await message.answer(text, parse_mode=ParseMode.HTML, reply_markup=kb)
     await message.answer_location(latitude=place["lat"], longitude=place["lon"])
+
+    audio_file = FSInputFile(audio_path)
+    await message.answer_audio(
+        audio=audio_file,
+        performer=place['music']['performer'],
+        title=place['music']['title']
+    )
+
+    # await message.answer_audio(audio_path, performer="Performer", title="Title")
 
 
 @dp.message(lambda msg: any(msg.text == TEXTS[lang]["at_place"] for lang in TEXTS))
