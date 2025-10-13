@@ -10,8 +10,8 @@
             "en": "The main building of the Higher School of Economics is one of the university’s key spaces, filled with student life and energy."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
+            "en": "\uD83D\uDDFA\uFE0F Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
         },
         "lat": 55.753636,
         "lon": 37.648297,
@@ -26,7 +26,7 @@
         },
         "circle_text": {
             "ru": "\uD83D\uDC8E ВШЭ на Покровке\n\n\uD83D\uDCCDул. Покровка, 11\n\n\uD83D\uDCDC Историческая справка:\n\nПеред вами не просто университет, а один из самых ярких памятников московского классицизма — Усадьба Ивана Юшкова. Особняк был построен в конце 1790-х годов, и его авторство приписывают великому русскому зодчему Василию Баженову.\n\nЧто здесь было раньше?\n\n· Дом творческой элиты: В XIX веке усадьба была центром культурной жизни. Здесь располагалось Московское училище живописи, ваяния и зодчества, где учились будущие звезды русской живописи — Василий Перов, Алексей Саврасов, Исаак Левитан.\n· Мастерская Ильи Репина: Знаменитый художник работал в этом здании над своей картиной «Крестный ход в Курской губернии».\n· Советский период: После революции здесь размещались различные институты, в том числе ВХУТЕМАС — главный авангардный художественный вуз страны, ставший колыбелью конструктивизма.\n\n\uD83C\uDFAF Интересный факт: Обратите внимание на уникальную полукруглую колоннаду-ротонду на углу здания. Это архитектурная доминанта Покровки. По легенде, хозяин усадьбы, Иван Юшков, был масоном, и эта ротонда служила местом для собраний его тайного общества.\n\n➡\uFE0F Следующая точка маршрута: \"Особняк\"",
-            "en": "Welcome to the vibe of studying, autumn, and good coffee! You’re on Pokrovka — a place buzzing with students and the spirit of knowledge."
+            "en": "\uD83C\uDFDB Main Building of the Higher School of Economics (Pokrovka)\n\n\uD83D\uDCCD Pokrovsky Boulevard\n\n\uD83D\uDCDC Historical background:\n\nThe main building of the Higher School of Economics is one of the university’s key spaces — where student life truly thrives.\n\nWhat makes it special?\n\n· Energy: it’s always bustling with students, classes, and ideas.\n· Urban rhythm: here, the day begins with coffee and ends with conversations under the evening lights of Pokrovka.\n\n\uD83C\uDFAF Fun fact:\nThe complex was built on the site of an old Moscow courtyard, and today it combines modern glass structures with the preserved facades of pre-revolutionary buildings.\n\n➡\uFE0F Next stop: Gastromarket “Osobnyak”"
         }
     },
     {
@@ -40,8 +40,8 @@
             "en": "A cozy gastro market in a historical mansion offering cuisines from all over the world."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Найди Большой Трёхсвятительский переулок, 2/1с5.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Head to 2/1s5 Bolshoy Trekhsvyatitelskiy Lane."
+            "ru": "\uD83D\uDDFA\uFE0F Пройдись пешком до Трёхсвятительского переулка 2/1s1",
+            "en": "\uD83D\uDDFA\uFE0F Walk to 2/1s1, Triokhsvyatitelsky Lane"
         },
         "lat": 55.755044,
         "lon": 37.644684,
@@ -56,7 +56,7 @@
         },
         "circle_text": {
             "ru": "\uD83C\uDF3F Завтрак в «Особняке» \n\n\uD83D\uDCCD Трёхсвятительский переулок, 2/1с5\n\n\uD83C\uDF7D Здесь вы можете поесть в уютном заведении в советском стиле! \n \n\uD83D\uDCDC Историческая справка:\n\nНазвание переулка восходит к Трёхсвятительской церкви, посвящённой Василию Великому, Григорию Богослову и Иоанну Златоусту, которую построили здесь в XVII веке.\n\nЧто здесь было раньше?\n\n· Старинные усадьбы: в XVIII–XIX веках здесь селились чиновники, священники и богатые купцы. Многие дома сохранили старомосковскую планировку и лепнину.\n\n\uD83C\uDFAF Интересный факт:\nВ одном из домов переулка, по преданию, жил человек, прототип героя Грибоедова Чацкого. Говорили, что он тоже «путешествовал, видел свет и был везде встречен холодно».\n\n➡\uFE0F Следующая точка маршрута: Чистые пруды",
-            "en": "It smells like fresh pastries and coffee here — filled with chatter and warm light."
+            "en": "\uD83C\uDF7D Gastromarket “Osobnyak”\n\n\uD83D\uDCCD Pokrovka Street\n\n\uD83D\uDCDC Historical background:\n\nLocated in a restored 19th-century mansion, “Osobnyak” has become one of the city’s coziest gastro spaces.\n\nWhat makes it special?\n\n· Atmosphere: warm lights, soft music, and a mix of aromas — from coffee to Asian street food.\n· Community: a favorite spot for HSE students, creative professionals, and locals.\n\n\uD83C\uDFAF Fun fact:\nThe building once belonged to a Moscow merchant family; today it has been transformed into a space for food, talks, and friendly gatherings.\n\n➡\uFE0F Next stop: Chistye Prudy\n"
         }
     },
     {
@@ -70,8 +70,8 @@
             "en": "One of Moscow’s most picturesque spots — a favorite place for walks and meetups."
         },
         "route": {
-            "ru": "Метро 'Чистые пруды'. Выйди на бульвар и спустись к пруду.",
-            "en": "Metro ‘Chistye Prudy’. Exit to the boulevard and head down to the pond."
+            "ru": "\uD83D\uDDFA\uFE0F Ты можешь добраться сюда пешком, пройдя по живописному бульвару, или доехать на автобусе №90",
+            "en": "\uD83D\uDDFA\uFE0F You can get here on foot via the scenic boulevard, or take bus No. 90"
         },
         "lat": 55.764473,
         "lon": 37.639277,
@@ -86,7 +86,7 @@
         },
         "circle_text": {
             "ru": "\uD83C\uDF0A Чистые пруды\n\n\uD83D\uDCCD Чистопрудный бульвар\n\n\uD83D\uDCDC Историческая справка:\n\nКогда-то это место называлось Поганые пруды — сюда стекали отходы кожевенных мастерских. В XVII веке по приказу князя Меншикова пруды очистили, а название изменили на «Чистые».\n\nЧто здесь особенного?\n\n· Пруд: на его берегах отражаются купола старых церквей и фасады доходных домов XIX века.\n· Прогулочная традиция: с XIX века Чистые пруды — любимое место встреч интеллигенции, студентов и поэтов. Здесь гуляли Гоголь, Тургенев и Блок.\n\n\uD83C\uDFAF Интересный факт:\nПо легенде, один из домов у пруда вдохновил Булгакова на описание «Нехорошей квартиры» из «Мастера и Маргариты».\n\n➡\uFE0F Следующая точка маршрута: Никольская улица и ЦДМ\n\n\uD83D\uDE8C Можно добраться на автобусе м3",
-            "en": "Look at how the water reflects the sky — it feels like the city took a quiet breath."
+            "en": "\uD83D\uDCA7 Chistye Prudy\n\n\uD83D\uDCCD Chistoprudny Boulevard\n\n\uD83D\uDCDC Historical background:\n\nThe ponds appeared in the 17th century, and their name — “Clean Ponds” — came after a Moscow official once ordered the area to be cleaned up.\n\nWhat makes it special?\n\n· A place of calm: quiet paths, benches, and reflections of the city lights on the water.\n· Cultural magnet: home to street musicians, festivals, and evening strolls.\n\n\uD83C\uDFAF Fun fact:\nIn the summer, you can rent a scooter here, and in winter — skate under the fairy lights.\n\n➡\uFE0F Next stop: Central Children’s Store (near Nikolskaya Street)"
         }
     },
   {
@@ -100,8 +100,8 @@
             "en": "The Central Children’s Store is more than a mall — it’s a symbol of childhood and light in the heart of Moscow."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F Пройдись пешком по красивой улочке или спустись в метро 'Чистые пруды' и едь до станции 'Лубянка'",
+            "en": "\uD83D\uDDFA\uFE0F Walk along the charming street or go down to Chistye Prudy metro and ride to Lubyanka station"
         },
         "lat": 55.760140,
         "lon": 37.624965,
@@ -116,7 +116,7 @@
         },
         "circle_text": {
             "ru": "✨ Никольская улица и Центральный Детский Магазин\n\n\uD83D\uDCCD Никольская улица, рядом с ЦДМ\n\n\uD83D\uDCDC Историческая справка:\n\nНикольская улица — одна из древнейших в Москве. Она ведёт от Лубянской площади прямо к Красной, соединяя духовную и торговую Москву. Свое имя улица получила от Никольского греческого монастыря, основанного ещё в XIV веке.\n\nЧто здесь было?\n\n· Купеческая улица: здесь располагались лучшие книжные лавки и типографии, включая знаменитую Синодальную печатню.\n· Путь к Кремлю: по Никольской ходили царские процессии, проходили народные гуляния.\n\n\uD83C\uDFDB ЦДМ (бывший Детский мир):\nОткрылся в 1957 году как символ заботы о детстве. Огромное здание в стиле сталинского ампира до сих пор хранит дух советской эпохи, но после реконструкции стало современным торговым и культурным центром.\n\n\uD83C\uDFAF Интересный факт:\nВ башне ЦДМ установлен огромный механический часы-глобус, который показывают не только время, но и астрономические циклы — один из крупнейших в мире внутренних механизмов такого типа.\n\n➡\uFE0F Следующая точка маршрута: Соловецкий камень",
-            "en": "Go up to the rooftop — you’ll see Nikolskaya and the Kremlin, and it feels like the city slows down for a moment."
+            "en": "\uD83C\uDFEC Central Children’s Store (near Nikolskaya)\n\n\uD83D\uDCCD Teatralny Passage\n\n\uD83D\uDCDC Historical background:\n\nOpened in 1957, the Central Children’s Store was for decades the main place of joy for kids and parents alike.\n\nWhat makes it special?\n\n· Architecture: monumental Soviet classicism with marble columns and wide arcades.\n· Renewal: in 2015, the building reopened after a full restoration — with a glass dome and a panoramic observation deck.\n\n\uD83C\uDFAF Fun fact:\nFrom the top floor, there’s a great view of the Kremlin towers and Nikolskaya Street shimmering with lights.\n\n➡\uFE0F Next stop: Solovetsky Stone"
         }
     },
   {
@@ -130,8 +130,8 @@
             "en": "The Solovetsky Stone is a monument of remembrance, honoring the victims of repression."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F Пройдись пешком 5-10 минут от Никольской",
+            "en": "\uD83D\uDDFA\uFE0F Walk 5–10 minutes from Nikolskaya"
         },
         "lat": 55.759113,
         "lon": 37.627596,
@@ -146,7 +146,7 @@
         },
         "circle_text": {
             "ru": "\uD83D\uDD4A Соловецкий камень\n\n\uD83D\uDCCD Лубянская площадь\n\n\uD83D\uDCDC Историческая справка:\nСоловецкий камень — мемориал жертвам политических репрессий. Привезён с территории Соловецкого лагеря, одного из первых звеньев системы ГУЛАГа.\n\nЧто он символизирует:\n· память о миллионах людей, погибших и пострадавших;\n· напоминание о важности свободы и человеческого достоинства;\n\n\uD83C\uDFAF Интересный факт:\nКаждый год 30 октября здесь проходит акция «Возвращение имён» — люди читают имена репрессированных, чтобы память о них не исчезла.\n\n➡\uFE0F Следующая точка маршрута: Красная площадь",
-            "en": "This is a place for silence — stand nearby and feel how history speaks through stillness."
+            "en": "\uD83E\uDEA8 Solovetsky Stone\n\n\uD83D\uDCCD Lubyanka Square\n\n\uD83D\uDCDC Historical background:\n\nInstalled in 1990, this granite boulder from the Solovetsky Islands became a memorial to the victims of political repression in the USSR.\n\nWhat makes it special?\n\n· Simplicity: no grand monument, only a rough stone — a symbol of memory and dignity.\n· Meaning: every year on October 30, Muscovites gather here for the “Return of Names” ceremony.\n\n\uD83C\uDFAF Fun fact:\nThe stone was brought from the Solovetsky camp — one of the first and most infamous in the Gulag system.\n\n➡\uFE0F Next stop: Red Square"
         }
     },
   {
@@ -160,8 +160,8 @@
             "en": "Red Square is the heart of Moscow, where past and present meet, with the Moscow River flowing nearby and Zaryadye Park stretching alongside."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F Пройдись пешком 10-15 минут до Красной площади и парка 'Зарядье'",
+            "en": "\uD83D\uDDFA\uFE0F Walk 10–15 minutes to Red Square and Zaryadye Park"
         },
         "lat": 55.751188,
         "lon": 37.627940,
@@ -176,7 +176,7 @@
         },
         "circle_text": {
             "ru": "\uD83C\uDFF0 Красная Площадь\n\n\uD83D\uDCCD Вы на главной площади страны!\n\n\uD83D\uDCDC Историческая справка:\n\nКрасная площадь — это не просто сердце Москвы, а сердце всей России. Ее история началась в конце XV века, когда по указу Ивана III вдоль стен Кремля была расчищена полоса земли для создания пожарного разрыва. Изначально она называлась «Торг» или «Пожар», а свое красивое имя — «Красная» (то есть «красивая») — получила лишь в XVII веке.\n\nГлавные объекты, которые вы видите:\n\n· Собор Покрова Пресвятой Богородицы, что на Рву (Храм Василия Блаженного): Построен в 1555-1561 гг. по приказу Ивана Грозного в честь взятия Казанского ханства. Легенда гласит, что царь был так восхищен красотой собора, что приказал ослепить его зодчих, чтобы они не смогли повторить шедевр.\n· Спасская башня: Главные ворота Кремля. Построена в 1491 году итальянским архитектором Пьетро Антонио Солари. Знаменитые куранты на башне существуют с XVI века, а их современный вид сложился в 1852 году.\n· Мавзолей В.И. Ленина: Усыпальница вождя революции, построенная в 1930 году по проекту архитектора Щусева. Символ советской эпохи.\n· ГУМ: Главный универсальный магазин страны. До революции назывался «Верхние торговые ряды». Великолепный памятник псевдорусской архитектуры и инженерной мысли конца XIX века.\n\n\uD83C\uDFAF Интересный факт: В XVI-XVII веках на Лобном месте (круглом каменном возвышении) не казнили, а зачитывали царские указы и проводили церковные службы. Казни проводились на деревянных помостах неподалеку.\n\n➡\uFE0F Следующая точка маршрута: дом Пашкова",
-            "en": "Walk a little further — you’ll see the river and the domes. Here you can feel the pulse of the city: its strength, beauty, and that rare quiet only found at its core."
+            "en": "\uD83C\uDFF0 Red Square\n\n\uD83D\uDCCD You’re at the main square of the country!\n\n\uD83D\uDCDC Historical background:\n\nRed Square is not only the heart of Moscow but of all Russia. Its history began in the late 15th century when Ivan III ordered a strip of land along the Kremlin walls to be cleared as a firebreak. Originally called “Torg” (“Market”) or “Pozhar” (“Fire”), it received its beautiful name “Krasnaya” — meaning “beautiful” — in the 17th century.\n\nMain landmarks you can see:\n\n· Cathedral of the Intercession of the Most Holy Theotokos on the Moat (St. Basil’s Cathedral): built in 1555–1561 by order of Ivan the Terrible to commemorate the capture of Kazan. Legend says the tsar was so impressed by its beauty that he had the architects blinded so they could never recreate it.\n· Spasskaya Tower: the Kremlin’s main gate, built in 1491 by Italian architect Pietro Antonio Solari. The famous chimes have existed since the 16th century; the modern version dates to 1852.\n· Lenin’s Mausoleum: the resting place of the revolutionary leader, built in 1930 by architect Shchusev — a symbol of the Soviet era.\n· GUM: the country’s main department store. Before the revolution, it was known as the “Upper Trading Rows.” A masterpiece of late 19th-century pseudo-Russian architecture and engineering.\n\n\uD83C\uDFAF Fun fact:\nIn the 16th–17th centuries, the Lobnoye Mesto (the round stone platform) wasn’t used for executions — it was where tsarist decrees were read and religious ceremonies held.\n\n➡\uFE0F Next stop: Pashkov House"
         }
     },
   {
@@ -190,8 +190,8 @@
             "en": "The Pashkov House is one of Moscow’s most elegant buildings and now part of the Russian State Library."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F От парка 'Зарядье' пройдись 10-15 минут по Кремлевской набережной до моста",
+            "en": "\uD83D\uDDFA\uFE0F From Zaryadye Park, walk 10–15 minutes along the Kremlin Embankment to the bridge"
         },
         "lat": 55.750063,
         "lon": 37.607129,
@@ -206,7 +206,7 @@
         },
         "circle_text": {
             "ru": "\uD83C\uDFDB Дом Пашкова\n\n\uD83D\uDCCD ул. Воздвиженка, 3/5\n\n\uD83D\uDCDC Историческая справка:\n\nПостроен в 1784–1786 годах по проекту Василия Баженова для капитана-гвардейца Петра Пашкова — выходца из семьи крепостных.\n\nЧто делает его особенным?\n\n· Архитектурный символ: строгая симметрия, белоснежные колонны и великолепная лестница — идеал московского классицизма.\n· Культурный центр: в XIX веке здесь находился Румянцевский музей — первая публичная библиотека Москвы, предшественница Российской государственной библиотеки.\n· Легенды: считали, что именно отсюда дьявол наблюдал за Москвой в «Мастере и Маргарите».\n\n\uD83C\uDFAF Интересный факт:\nДом Пашкова стоит на Ваганьковском холме — по преданию, на месте древнего языческого святилища. Возможно, именно поэтому здание кажется «вознесённым» над городом.\n\n➡\uFE0F Следующая точка маршрута: кафе \"Антипа\"",
-            "en": "Stop by the “Bufet” café for a great coffee and enjoy the view of the Kremlin. Behind these walls lie books, stories, and a silence that speaks louder than words."
+            "en": "\uD83C\uDFDB Pashkov House\n\n\uD83D\uDCCD Vozdvizhenka St., 3/5\n\n\uD83D\uDCDC Historical background:\n\nBuilt in 1784–1786 by architect Vasily Bazhenov for Captain of the Guards Pyotr Pashkov — a former serf who rose through the ranks.\n\nWhat makes it special?\n\n· Architectural symbol: strict symmetry, snow-white columns, and a magnificent staircase — the ideal of Moscow classicism.\n· Cultural center: in the 19th century, it housed the Rumyantsev Museum — the first public library in Moscow, a predecessor of the Russian State Library.\n· Legends: it is said that this is the very spot from which the Devil watched Moscow in The Master and Margarita.\n\n\uD83C\uDFAF Fun fact:\nPashkov House stands on the Vagankovsky Hill — according to legend, on the site of an ancient pagan sanctuary. Perhaps that’s why the building seems “elevated” above the city.\n\n➡\uFE0F Next stop: Café “Antipa”"
         }
     },
   {
@@ -220,8 +220,8 @@
             "en": "“Antipa” is a small café hidden from the city noise, where time moves a little slower."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F Пройдись 5-7 минут от дома Пашкова в сторону моста",
+            "en": "\uD83D\uDDFA\uFE0F Walk 5–7 minutes from Pashkov House toward the bridge"
         },
         "lat": 55.747765,
         "lon": 37.605615,
@@ -236,7 +236,7 @@
         },
         "circle_text": {
             "ru": "☕\uFE0F Кафе «Антипа» и церковь св. Антипия\n\n\uD83D\uDCCD Колпачный переулок\n\n\uD83C\uDF7D Здесь вы можете поесть в уютной трапезной! \n\n\uD83D\uDCDC Историческая справка:\nВы находитесь в старинном Колпачном переулке, известном с XVII века. Здесь располагалась церковь святого Антипия Пергамского — её здание сохранилось до наших дней и придаёт переулку особую атмосферу.\n\n· Архитектура: купола и белокаменные стены XVII века.\n· Кафе «Антип»: современное пространство в историческом доме, где сочетаются старинная кладка и уютный интерьер.\n\n\uD83C\uDFAF Интересный факт:\nНазвание переулка происходит от мастерских, где делали «колпаки» — шапки и головные уборы для царского двора.\n\n➡\uFE0F Следующая точка маршрута: Стена Цоя, Арбат",
-            "en": "Grab a cup of coffee, sit by the window, and realize — sometimes comfort matters more than speed."
+            "en": "☕\uFE0F Café “Antipa” and the Church of St. Antipas\n\n\uD83D\uDCCD Kolpachny Lane\n\n\uD83C\uDF7D Here you can have a cozy meal in a quiet refectory!\n\n\uD83D\uDCDC Historical background:\n\nYou are in the old Kolpachny Lane, known since the 17th century. The Church of St. Antipas of Pergamon once stood here — its building has survived to this day and gives the lane its special atmosphere.\n\n· Architecture: domes and white-stone walls from the 17th century.\n· Café “Antipa”: a modern space in a historic building, where old brickwork meets a warm interior.\n\n\uD83C\uDFAF Fun fact:\nThe name of the lane comes from the workshops that once made “kolpaki” — caps and headdresses for the royal court.\n\n➡\uFE0F Next stop: Tsoi Wall, Arbat"
         }
     },
   {
@@ -250,8 +250,8 @@
             "en": "The Tsoi Wall is a place of memory, freedom, and music, where the word “Changes!” still echoes."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F Пройдись 10-15 минут пешком в сторону Арбата",
+            "en": "\uD83D\uDDFA\uFE0F Walk 10–15 minutes toward Arbat"
         },
         "lat": 55.749125,
         "lon": 37.590872,
@@ -266,7 +266,7 @@
         },
         "circle_text": {
             "ru": "\uD83C\uDFB8 Стена Цоя и Старый Арбат\n\n\uD83D\uDCCD Кривоарбатский переулок\n\n\uD83D\uDCDC Историческая справка:\nСтена Цоя появилась в конце 1980-х, когда поклонники группы «Кино» начали писать здесь строчки песен и послания Виктору Цою.\n\n· Место свободы: в советские годы Арбат был центром неформальной культуры — музыкантов, художников, студентов.\n· Современность: стена по-прежнему живёт — новые надписи появляются каждую неделю.\n\n\uD83C\uDFAF Интересный факт:\nНа стене можно найти автографы поклонников со всего мира.\n\n➡\uFE0F Следующая точка маршрута: Воробьёвы горы",
-            "en": "Listen closely — someone might still be singing, and the air fills with meaning again..."
+            "en": "\uD83C\uDFB8 Tsoi Wall\n\n\uD83D\uDCCD Arbat area\n\n\uD83D\uDCDC Historical background:\n\nThe wall became a spontaneous memorial to musician Viktor Tsoi in the late 1980s. Fans wrote quotes, lyrics, and declarations of love for his songs.\n\nWhat makes it special?\n\n· Living memory: every day, new graffiti appears here — a dialogue between generations.\n· Symbol: of freedom, youth, and inner rebellion.\n\n\uD83C\uDFAF Fun fact:\nSometimes, fans leave cigarettes or flowers by the wall — as a quiet tribute to the singer.\n\n➡\uFE0F Next stop: Vorobyevy Hills"
         }
     },
   {
@@ -280,8 +280,8 @@
             "en": "Vorobyovy Gory is one of Moscow’s most famous spots: from here, the city unfolds below, and the cable car glides nearby between the hillside and Luzhniki Stadium."
         },
         "route": {
-            "ru": "Метро 'Китай-город' или 'Чистые пруды'. Пройдись по Покровскому бульвару до здания ВШЭ.",
-            "en": "Metro ‘Kitay-Gorod’ or ‘Chistye Prudy’. Walk along Pokrovsky Boulevard to the HSE building."
+            "ru": "\uD83D\uDDFA\uFE0F На автобусе М1 едь до Площади Гагарина и пройди 15-20 минут пешком",
+            "en": "\uD83D\uDDFA\uFE0F Take bus M1 to Gagarin Square and then walk 15–20 minutes"
         },
         "lat": 55.710689,
         "lon": 37.572050,
@@ -296,7 +296,7 @@
         },
         "circle_text": {
             "ru": "\uD83C\uDF05 Воробьёвы горы (Смотровая площадка)\n\n\uD83D\uDCCD ул. Косыгина, 28\n\n\uD83D\uDCDC Историческая справка:\nВоробьёвы горы — одно из самых известных и возвышенных мест Москвы. С этих холмов открывается панорамный вид на город, который узнают по открыткам и фильмам. Название происходит от деревни Воробьёво, принадлежавшей в XV веке митрополиту Пимену.\n\nСмотровая площадка расположена на высоте около 80 метров над Москвой-рекой. Напротив — стадион «Лужники», а рядом проходит канатная дорога, соединяющая оба берега и ставшая новым символом современной Москвы.\n\n\uD83D\uDCAC Что делает это место особенным:\n· Лучший вид на Москву: отсюда видны сталинские высотки, Москва-Сити и извилистая лента реки, блестящая на солнце.\n· Живое дыхание города: здесь встречаются влюблённые, туристы, студенты — все, кто хочет увидеть столицу с высоты.\n· Место силы: отсюда особенно остро чувствуешь масштаб Москвы — и понимаешь, что она живая, настоящая и движется вперёд.\n\n\uD83C\uDFAF Интересный факт:\nИменно с Воробьёвых гор в 1953 году Никита Хрущёв наблюдал за строительством Лужников. А позже это место стало традиционным пунктом встречи выпускников МГУ — вуза, чьё главное здание величественно возвышается на соседнем холме.",
-            "en": "Standing on the viewpoint, feeling the cool air and watching Moscow spread out before you — yes, our history is complicated, but in this wind, in these lights, you can sense faith in a bright, clear future."
+            "en": "\uD83C\uDF05 Sparrow Hills (Observation Deck)\n\n\uD83D\uDCCD Kosygina St., 28\n\n\uD83D\uDCDC Historical background:\nSparrow Hills is one of Moscow’s most famous and elevated spots. From these slopes opens a panoramic view of the city — the one you recognize from postcards and films. The name comes from the village of Vorobyovo, which in the 15th century belonged to Metropolitan Pimen.\n\nThe observation deck is located about 80 meters above the Moscow River. Across the river lies the Luzhniki Stadium, and nearby runs a cable car connecting both banks — a new symbol of modern Moscow.\n\n\uD83D\uDCAC What makes this place special:\n· The best view of Moscow: from here you can see the Stalinist skyscrapers, Moscow City, and the winding silver ribbon of the river shining in the sun.\n· The living breath of the city: couples, tourists, and students all gather here — everyone who wants to see the capital from above.\n· A place of power: from here, you truly feel the vastness of Moscow — you realize it’s alive, real, and always moving forward.\n\n\uD83C\uDFAF Fun fact:\nIt was from Sparrow Hills in 1953 that Nikita Khrushchev watched the construction of Luzhniki Stadium. Later, the spot became a traditional meeting point for graduates of Moscow State University — whose majestic main building rises proudly on the neighboring hill."
         }
     }
 ]
