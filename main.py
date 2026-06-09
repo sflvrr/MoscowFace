@@ -51,7 +51,7 @@ def make_kb(rows: list[list[str]]) -> ReplyKeyboardMarkup:
 
 
 def lang_kb() -> ReplyKeyboardMarkup:
-    return make_kb([["🇷🇺 Русский", "🇬🇧 English"]])
+    return make_kb([["🇷🇺 Русский"]])
 
 
 def admin_kb() -> ReplyKeyboardMarkup:
